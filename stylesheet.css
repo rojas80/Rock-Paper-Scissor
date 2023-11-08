@@ -1,0 +1,26 @@
+
+button{
+    background: #e5e7eb;
+}
+.container{
+    text-align: center;
+}
+.sub-player-scores{
+    display: flex;
+    gap:5px
+}
+.players-scores{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+button{
+    width: 100px;
+    height: 75px;
+}
+.players-choices-display{
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+    padding: 25px;
+}
